@@ -1,0 +1,9 @@
+
+# Ignore build directories
+/build/*
+/libs/
+
+
+#Ignored extensions
+init.sh
+go.work
