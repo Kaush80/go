@@ -7,3 +7,4 @@
 #Ignored extensions
 init.sh
 go.work
+.gitignore
