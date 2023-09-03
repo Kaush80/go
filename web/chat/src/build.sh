@@ -1,3 +1,3 @@
 set -e
-cp -rf ./templates ../../build
+cp -r ./templates ../../build
 go build -o ../../build/chatServer
